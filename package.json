@@ -1,0 +1,22 @@
+{
+  "name": "nodeservice",
+  "version": "1.0.0",
+  "description": "for Api testing purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzzfree/NodeService.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzzfree/NodeService/issues"
+  },
+  "homepage": "https://github.com/zzzfree/NodeService#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
